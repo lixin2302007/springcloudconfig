@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-discovery-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MBJ20180710S
+Implementation-Vendor-Id: com.cloud.discovery
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-discovery-demo
+Created-By: Maven Integration for Eclipse
+
