@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-service-feign-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MBJ20180710S
+Implementation-Vendor-Id: com.cloud.service.feign
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-service-feign-demo
+Created-By: Maven Integration for Eclipse
+
